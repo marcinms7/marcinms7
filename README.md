@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 💻 I am Marcin, ML Software Engineer. My backround is in Statistics and Quantitative Software Developement. 
+### 💻 I am Marcin, ML Software Engineer. My backround is in Statistics and Quantitative Software Developement. 
 
 🌱 I have graduated from the University of Bristol, following that worked in Data Science and Software Engineering, using ML to build applications and APIs.
 
@@ -15,12 +15,13 @@
 🚀 Always ready to collaborate
 
 📫 Best reach me on https://www.linkedin.com/in/marcin-swierczewski/ 
-
-
-
-
+\
+\
+\
+\
 ## Some projects I am working on
 
+\
 [Neural Network Web App with Django and bespoke NN algo](https://github.com/marcinms7/django-web-app-neural-network)
 
 [Web Crawler with Selenium, using NLP to estimate sentiment of the online comments](https://github.com/marcinms7/django-webcrawling-nlp-app)
