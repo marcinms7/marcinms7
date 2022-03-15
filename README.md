@@ -4,7 +4,7 @@
 
 🌱 I have graduated from the University of Bristol, following that worked in Data Science and Software Engineering, using ML to build applications and APIs.
 
-👨‍💻 My current work-stack: Python, Typescript, R, HTML, GCP, Flask, SQLAlchemy, Pytorch, Tensorflow, Postgres, Airflow.
+👨‍💻 My current work-stack: Python, Typescript, R, HTML, GCP, Flask, Docker, SQLAlchemy, Pytorch, Tensorflow, Postgres, Airflow.
 
 📚 Currently learning Scala.
 
