@@ -19,10 +19,10 @@
 \
 \
 \
-## Some projects I am working on
+## 👨‍🔬 Some projects I am working on
 
 \
-[Neural Network Web App with Django and bespoke NN algo](https://github.com/marcinms7/django-web-app-neural-network)
+[:nerd_face: Neural Network Web App with Django and bespoke NN algo](https://github.com/marcinms7/django-web-app-neural-network)
 
 [Web Crawler with Selenium, using NLP to estimate sentiment of the online comments](https://github.com/marcinms7/django-webcrawling-nlp-app)
 
