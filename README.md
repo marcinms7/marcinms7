@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## 💻 I am Marcin, ML Software Engineer. My backround is in Statistics and Quantitative Software Developement. 
 
@@ -16,12 +16,19 @@
 
 📫 Best reach me on https://www.linkedin.com/in/marcin-swierczewski/ 
 
-# Some projects I am working on
+
+
+
+## Some projects I am working on
 
 [Neural Network Web App with Django and bespoke NN algo](https://github.com/marcinms7/django-web-app-neural-network)
+
 [Web Crawler with Selenium, using NLP to estimate sentiment of the online comments](https://github.com/marcinms7/django-webcrawling-nlp-app)
+
 [Some maths stuff](https://github.com/marcinms7/Machine-Learning)
+
 [Stock prediction base](https://github.com/marcinms7/ML-Santander-kaggle-competition)
+
 [Stock Prediction Web App with Dash and ML](https://github.com/marcinms7/stock-predictions)
 
 <!--
