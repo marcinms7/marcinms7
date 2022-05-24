@@ -1,16 +1,18 @@
 # Hi there 👋
 
-### 💻 I am Marcin, ML Software Engineer. My backround is in Statistics and Quantitative Software Developement. 
+### 💻 I am Marcin, ML Software Engineer. My backround is in Mathematics, Statistics and Quantitative Software Developement. 
 
 🌱 I have graduated from the University of Bristol, following that worked in Data Science and Software Engineering, using ML to build applications and APIs.
 
-👨‍💻 My current work-stack: Python, Typescript, R, HTML, GCP, Flask, Docker, SQLAlchemy, Pytorch, Tensorflow, Postgres, Airflow.
+👨‍💻 My current work-stack: Python, C++, Typescript, R, HTML, GCP, Flask, Docker, Kubernetes, CI/CD pipelines, SQLAlchemy, Pytorch, Tensorflow, Postgres, Airflow.
 
 📚 Currently learning Scala.
 
 ⏳ Current projects: ML stock-picking tool and personal Website.
 
 💬 Ask me about Data Science Python libraries, Python, C++, stats, automation, AWS, DevOps, Java.
+
+🔭 Ask me about some theory: statistics, unsupervised/supervised learning, analytical and algorithmic optimisation, real analysis, proof mathematics, group and set theory, abstract algebra
 
 🚀 Always ready to collaborate
 
